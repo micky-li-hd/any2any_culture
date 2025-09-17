@@ -1,0 +1,8 @@
+*
+!audio/
+!audio/**
+!image/
+!image/**
+!document/
+!document/**
+!.gitignore
